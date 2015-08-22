@@ -56,7 +56,8 @@ public class actions {
 	    }
 			
 			Select mydropdown = new Select(driver.findElement(identification));
-			mydropdown.selectByIndex(index);
+			// mydropdown.selectByIndex(index); // dropdown selection by index
+			mydropdown.selectByIndex(index); // dropdown selection by index
 			
 			
 		}
