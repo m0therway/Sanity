@@ -1,2 +1,2 @@
 # TS5Sanity
-Sanity test scripts utilizing Selenium and Java classes
+Sanity test scripts for retail utilizing Selenium and Java classes with assert
